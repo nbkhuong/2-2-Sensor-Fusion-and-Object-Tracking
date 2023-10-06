@@ -1,5 +1,5 @@
 
-# Sensor Fusion and Tracking
+# Object Tracking by Sensor Fusion
 This is the project for the second course in the [Udacity Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) : Sensor Fusion and Tracking. 
 
 In this project, a sensor fusion framework is implemented to combine the measurements from LiDAR and camera and track vehicles over time. The project will be using the real-world data from the Waymo Open Dataset.
